@@ -8,6 +8,7 @@
 - Sortowanie przez zliczanie (Counting sort)
 - Sortowanie Shella (Shell sort)
 - Sortowanie szybkie (Quicksort)
+- Sortowanie kubełkowe (Heap sort)
 - Najdłuższy ciąg rosnący/malejący
 
 ## ✕
